@@ -1,0 +1,15 @@
+{
+  "name": "bioalign-studio",
+  "version": "1.0.0",
+  "description": "Sequence Alignment Studio for NW and SW algorithms",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
